@@ -25,16 +25,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 -->
-<img align="left" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixLeChat&layout=compact" />
-
-<br />
-<br />
-<br />
-<br />
-
----
-
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelixLeChat&show_icons=true&hide_border=true&count_private=true" />
+<img align="right" style="margin-top: -20px" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixLeChat&layout=compact" />
 
 [clinia]: https://clinia.com
 [linkedin]: https://www.linkedin.com/in/felixlrc/
