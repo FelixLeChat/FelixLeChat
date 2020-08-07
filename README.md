@@ -5,12 +5,11 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: Love Hackathons!
-<br />
 
 ### Connect with me:
 [<img align="left" alt="clinia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][clinia]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+<br /><br />
 
 ### Languages and Stats:
 <p float="left">
