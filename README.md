@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, a Hackathon Veteran and the Cofounder of [Clinia][clinia]!
 - 🔭 I’m currently working at Clinia, a company that aim to facilitate access to Healthcare for all patients
-- 💬 Ask me about anything
+- 💬 Ask me about Data, Entrepreneurship or Hackathons
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: Love Hackathons!
 
