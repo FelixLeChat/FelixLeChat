@@ -4,7 +4,6 @@
 - 🔭 I’m currently working at Clinia, a company that aim to facilitate access to Healthcare for all patients
 - 💬 Ask me about Data, Entrepreneurship or Hackathons
 - 📫 How to reach me: Linkedin or email
-- ⚡ Fun fact: Love Hackathons!
 
 ### Connect with me:
 [<img align="left" alt="clinia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][clinia]
