@@ -12,7 +12,6 @@
 
 ### Languages and Stats:
 <p float="left">
-<img align="left" width="350' alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelixLeChat&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" width="350' style="margin-top: -20px" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixLeChat&layout=compact&hide=python" />
 <br /></p>
 
