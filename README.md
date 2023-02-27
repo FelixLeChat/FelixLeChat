@@ -23,7 +23,7 @@ I'm a Software Engineer, a Hackathon Veteran and the Cofounder of [Clinia](https
 
 ### ❤️ GitHub Stats
 <p float="left">
-<img align="left" width="350' style="margin-top: -20px" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixLeChat&layout=compact&hide=python" />
+<img align="left" width="350' style="margin-top: -20px" alt="Languages Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelixLeChat&layout=compact&hide=python" />
 <br /></p>
 
 [clinia]: https://clinia.com
