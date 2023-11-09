@@ -1,5 +1,5 @@
 ## Hi there, I'm Felix 👋
-I'm a Software Engineer, a Hackathon Veteran and the Cofounder of [Clinia](https://clinia.com/en-ca)!
+I'm a Software Engineer, Hackathon Veteran and Cofounder of [Clinia Health](https://clinia.com/en-ca)!
 
 ### ✍️ Languages
 ![C#](https://img.shields.io/badge/-C%23-6A1677?style=flat&logo=csharp&logoColor=white)
